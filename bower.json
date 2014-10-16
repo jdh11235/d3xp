@@ -1,0 +1,23 @@
+{
+  "name": "d3xp",
+  "version": "0.0.0",
+  "homepage": "http://git.io/d3xp",
+  "authors": [
+    "Jonathan Herman <jdh11235@gmail.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "webcomponentsjs": "~0.4.2",
+    "polymer": "~0.4.2",
+    "d3": "~3.4.12"
+  }
+}
